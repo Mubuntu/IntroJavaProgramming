@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0_HelloWorld/0_HelloWorld.iml" filepath="$PROJECT_DIR$/0_HelloWorld/0_HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_ElementaryProgramming/1_ElementaryProgramming.iml" filepath="$PROJECT_DIR$/1_ElementaryProgramming/1_ElementaryProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_Selections/3_Selections.iml" filepath="$PROJECT_DIR$/3_Selections/3_Selections.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChapterTwoExercises/ChapterTwoExercises.iml" filepath="$PROJECT_DIR$/ChapterTwoExercises/ChapterTwoExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroJavaProgrammingBriefVersion.iml" filepath="$PROJECT_DIR$/IntroJavaProgrammingBriefVersion.iml" />
     </modules>
