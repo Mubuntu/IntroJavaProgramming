@@ -9,7 +9,7 @@ import java.util.Scanner;
     sample run:
     ctr+J gives you all the snippets
  */
-public class PoundToKilogram_E4 {
+public class Exercise_04_PoundToKilogram {
     public static void main(String[] args) {
         final double CONVERSION_RULE= 0.454;
         //make a scanner

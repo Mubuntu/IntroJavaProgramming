@@ -8,7 +8,7 @@ import java.util.Scanner;
  area = radius * radius * p
  volume = area * length
  */
-public class ComputeCilinder_E2 {
+public class Exercise_02_ComputeCilinder {
     public static void main(String[] args) {
         //create a scanner
         Scanner input = new Scanner(System.in);

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * fahrenheit = (9 / 5) * celsius + 32
  * Hint: In Java, 9 / 5 is 1, but 9.0 / 5 is 1.8
  */
-public class ComputeDegreesFahrenheit_Celsius_E1 {
+public class Exercise_01_ComputeDegreesFahrenheit_Celsius {
     public static void main(String[] args) {
         //create a Scanner
         Scanner input = new Scanner(System.in);

@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Enter the subtotal and a gratuity rate: 10 15
  * The gratuity is $1.5 and total is $11.5
  */
-public class ComputeGratuityRate_E5 {
+public class Exercise_05_ComputeGratuityRate {
     public static void main(String[] args) {
         //declare variables:
         int gratuityRate;
