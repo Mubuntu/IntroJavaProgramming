@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by Patrick on 3/06/2017.
  */
-public class SubtractionQuiz {
+public class SubtractionQuizRandom {
     public static void main(String[] args) {
         // 1. Generate two random single-digit integers
         int number1 = (int) (Math.random() + 10);
